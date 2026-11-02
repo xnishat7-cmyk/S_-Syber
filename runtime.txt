@@ -1,1 +1,5 @@
-python-3.10.12
+setuptools<70.0.0
+wheel
+aiogram==3.4.1
+google-generativeai==0.3.2
+aiohttp
